@@ -114,5 +114,4 @@ NLTK — Natural Language Toolkit
 
 Spotipy — Lightweight Python library for the Spotify Web API
 
-AI tools: ChatGPT, Blackbox AI
 
